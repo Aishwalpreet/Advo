@@ -1,3 +1,3 @@
 # Advo
-your legal assistant
-author Aishwal
+your legal assistant.
+Author Aishwal
